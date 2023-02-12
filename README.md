@@ -1,10 +1,7 @@
-# Prework-Study-Guide
-A study guide for all the prework in the full stack bootcamp.
 # Prework Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 This Prework Study Guide was created to act as an assistance in studying everything that has been taught throughout all of the prework in the Full Stack Coding Bootcamp. This project was built to get a basic concept of how Git, HTML, CSS, and JavaScript work. This solves the issue of not having a study guide to go over for everything learned in the course. By completing this study guide I have learned basic functions and basic coding. I have also gained experience by completing this study guide which is valuable for me as a student.
 
 ## Installation
